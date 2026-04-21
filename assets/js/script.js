@@ -1,0 +1,1 @@
+console.log("Application état civil chargée.");
