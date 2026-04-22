@@ -46,7 +46,7 @@ une base de données MariaDB
 un accès depuis les différents arrondissements via réseau ou Internet
 Technologies utilisées
 PHP (sans framework)
-MariaDB
+MariaDB (compatible MySQL)
 HTML / CSS
 JavaScript
 Dompdf (génération des PDF)
